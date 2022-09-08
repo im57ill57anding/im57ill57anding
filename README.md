@@ -1,6 +1,4 @@
-### Hi there 👋
-
-My name is Arsen and I'm a computer science student from Kazakhstan. Here's some info about me!
+### Hi, I'm Arsen, a computer science student from Kazakhstan. Here's some info about me!
 
 ⚡ Work experience: <br>
 - **Software Engineer Intern at Huawei** - [October 2022 - March 2023]
