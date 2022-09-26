@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Arsen, a computer science student from Kazakhstan. Here's some info about me!
+My name is Arsen, a CS student from Kazakhstan. Here's some info about me!
 
 - 😄 Pronouns: HE/HIS/HIM
 
@@ -17,5 +17,3 @@ My name is Arsen, a computer science student from Kazakhstan. Here's some info a
 🌱 Interests: Web development and Algorithms
 
 💬 Reach me by email or LinkedIn! doloremsentio@gmail.com | www.linkedin.com/in/im57ill57anding
-
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fryingpannn&layout=compact&hide=tex)](https://github.com/anuraghazra/github-readme-stats)-->
