@@ -15,4 +15,4 @@ My name is Arsen, a CS student from Kazakhstan. Here's some info about me!
 
 🌱 Interests: Web development and Algorithms
 
-💬 Reach me by email or LinkedIn! doloremsentio@gmail.com | www.linkedin.com/in/im57ill57anding
+💬 Reach me by email or LinkedIn! ozhetov.arsen@gmail.com | www.linkedin.com/in/pinkishsabito
