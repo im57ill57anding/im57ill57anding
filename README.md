@@ -5,9 +5,11 @@ My name is Arsen, a CS student from Kazakhstan. Here's some info about me!
 - 😄 Pronouns: HE/HIS/HIM
 
 ⚡ Work experience:
+- **Software Engineer Intern at Huawei** - [December 2023 - February 2024]
+- **Software Engineer at Arbuz.kz** - [March 2023 - November 2023]
+- **Competitive Programming Coach at EdLight Academy** - [June 2021 - August 2023]
 - **Software Engineer Intern at Huawei** - [October 2022 - December 2022]
 - **Software Engineer Intern at Lagom Group** - [June 2022 - July 2022]
-- **Competitive Programming Coach at EdLight Academy** - [June 2021 - July 2022]
 - **Software Developer at Global Energy** - [August 2021 - September 2021]
 
 👯 Virtual Internships:
